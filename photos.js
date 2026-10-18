@@ -11,7 +11,7 @@ window.PHOTOS = [
     title: "Prairie Light",
     location: "Sandhills, Nebraska",
     category: "nature",
-    image: "images/your-photo-01.svg",
+    image: "images/golden-wildflower-preview.png",
     payhipUrl: "https://payhip.com/b/WwJjD",
     alt: "Replace with a description of your photograph",
     description: "Late light crossing the grasslands at the end of a long day.",
