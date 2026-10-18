@@ -22,7 +22,7 @@ window.PHOTOS = [
   {
     id: "after-rain",
     title: "Sunset from the West",
-    location: "Omaha, Millard, Nebraska",
+    location: "Omaha Millard, Nebraska",
     category: "landscape",
     image: "images/Coolsunset[1].jpg",
     payhipUrl: "https://payhip.com/b/NRrC8",
@@ -37,7 +37,7 @@ window.PHOTOS = [
     title: "Ducks on Zorinski",
     location: "Zorinski, Millard Omaha",
     category: "nature",
-    image: "images/Ducks.JPG",
+    image: "images/Ducks.png",
     payhipUrl: "https://payhip.com/b/3XBRL",
     alt: "Replace with a description of your photograph",
     description: "Summer grass and a quiet path at the edge of the river.",
@@ -50,8 +50,8 @@ window.PHOTOS = [
     title: "Cows Grazing",
     location: "Iowa",
     category: "details",
-    image: "images/MooCow[1].jpg",
-    payhipUrl: "",
+    image: "images/MooCow[1].png",
+    payhipUrl: "https://payhip.com/b/M62Vo",
     alt: "Replace with a description of your photograph",
     description: "Summer leaves framed by a warm Nebraska window.",
     sizes: [
@@ -60,24 +60,24 @@ window.PHOTOS = [
   },
   {
     id: "blue-hour",
-    title: "Blue Hour",
-    location: "Wildcat Hills, Nebraska",
+    title: "Even the Smallest",
+    location: "Millard Omaha, Nebraska",
     category: "landscape",
-    image: "images/your-photo-05.svg",
-    payhipUrl: "",
+    image: "images/Verysmallpinkflower.png",
+    payhipUrl: "https://payhip.com/b/LGcU9",
     alt: "Replace with a description of your photograph",
-    description: "The last blue light settling over the western hills.",
+    description: "Even some of the smallest flowers can be the most beautiful",
     sizes: [
       { label: "Full-resolution digital download", price: 3 }
     ]
   },
   {
     id: "in-between",
-    title: "Open Road",
-    location: "Scotts Bluff, Nebraska",
+    title: "Amorpha canescens",
+    location: "Millard Omaha, Nebraska",
     category: "landscape",
-    image: "images/your-photo-06.svg",
-    payhipUrl: "",
+    image: "images/Purpleflower.png",
+    payhipUrl: "https://payhip.com/b/edJq6",
     alt: "Replace with a description of your photograph",
     description: "A small pause on the road, framed by afternoon heat and wide-open country.",
     sizes: [
