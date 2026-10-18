@@ -8,8 +8,8 @@
 window.PHOTOS = [
   {
     id: "salt-air",
-    title: "Prairie Light",
-    location: "Sandhills, Nebraska",
+    title: "Yellow Yarrow",
+    location: "Omaha, Millard, Nebraska",
     category: "nature",
     image: "images/golden-wildflower-preview.png",
     payhipUrl: "https://payhip.com/b/WwJjD",
@@ -21,10 +21,10 @@ window.PHOTOS = [
   },
   {
     id: "after-rain",
-    title: "After the Storm",
-    location: "Niobrara Valley, Nebraska",
+    title: "Sunset from the West",
+    location: "Omaha, Millard, Nebraska",
     category: "landscape",
-    image: "images/your-photo-02.svg",
+    image: "images/Coolsunset[1].jpg",
     payhipUrl: "",
     alt: "Replace with a description of your photograph",
     description: "A clearing storm above the open country.",
