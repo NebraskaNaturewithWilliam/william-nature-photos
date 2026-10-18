@@ -24,7 +24,7 @@ window.PHOTOS = [
     title: "Sunset from the West",
     location: "Omaha, Millard, Nebraska",
     category: "landscape",
-    image: "images/Coolsunset[1].jpg",
+    image: "images/cool-sunset.jpg",
     payhipUrl: "https://payhip.com/b/NRrC8",
     alt: "Replace with a description of your photograph",
     description: "A clearing storm above the open country.",
