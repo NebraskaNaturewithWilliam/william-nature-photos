@@ -34,11 +34,11 @@ window.PHOTOS = [
   },
   {
     id: "low-tide",
-    title: "Wild Meadow",
-    location: "Platte River, Nebraska",
+    title: "Ducks on Zorinski",
+    location: "Zorinski, Millard Omaha",
     category: "nature",
     image: "images/Ducks.JPG",
-    payhipUrl: "",
+    payhipUrl: "https://payhip.com/b/3XBRL",
     alt: "Replace with a description of your photograph",
     description: "Summer grass and a quiet path at the edge of the river.",
     sizes: [
