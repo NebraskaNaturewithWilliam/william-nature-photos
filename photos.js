@@ -47,10 +47,10 @@ window.PHOTOS = [
   },
   {
     id: "western-window",
-    title: "Cottonwood Window",
-    location: "Lincoln, Nebraska",
+    title: "Cows Grazing",
+    location: "Iowa",
     category: "details",
-    image: "images/your-photo-04.svg",
+    image: "images/MooCow[1].jpg",
     payhipUrl: "",
     alt: "Replace with a description of your photograph",
     description: "Summer leaves framed by a warm Nebraska window.",
