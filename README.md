@@ -40,22 +40,20 @@ The site currently uses illustrated placeholders in `images/`. They make the tem
   alt: "Prairie grass beneath low clouds near Valentine, Nebraska",
   description: "A soft, rain-washed morning over the grasslands.",
   sizes: [
-    { label: "Small download", price: 5 },
-    { label: "Medium download", price: 8 },
-    { label: "Large download", price: 12 }
+    { label: "Full-resolution digital download", price: 3 }
   ]
 }
 ```
 
 ## How automatic downloads will work
 
-GitHub publishes the website, but it cannot safely take payments or hide the high-resolution files. The website is now prepared for the next step: connecting a digital-product service.
+GitHub publishes the website, but it cannot safely take payments or hide the high-resolution files. Payhip holds each private, high-resolution file and gives it to the buyer only after payment.
 
-Later, you will create an account with a service that handles payments **and** automatic digital downloads. You will upload each high-resolution photo to that service only. A buyer pays there, then the service gives them the download automatically—no email from you needed.
+For each photo, create a Payhip digital product, upload its high-resolution file there, set its price, and copy its product link. Then paste that link into the matching `payhipUrl` line in `photos.js`. A buyer clicks **Buy & download** on your website, pays on Payhip, and Payhip gives them the download automatically—no email from you needed.
 
 Do **not** upload full-quality photos to this GitHub folder. GitHub is public, so only low-quality preview copies belong here.
 
-Until the payment service is connected, the checkout button clearly says that automatic checkout is coming soon. It does not open an order email.
+The first sample photograph is connected to a Payhip product already. The other sample photographs show **Available soon** until they have their own Payhip links.
 
 ## Very easy GitHub publishing steps
 

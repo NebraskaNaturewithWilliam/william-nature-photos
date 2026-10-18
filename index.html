@@ -22,9 +22,6 @@
         <a href="#prints">Photos</a>
         <a href="#about">About</a>
       </nav>
-      <button class="cart-button" type="button" data-cart-toggle aria-label="Open cart">
-        Bag <span data-cart-count>0</span>
-      </button>
     </header>
 
     <main id="top">
@@ -119,25 +116,6 @@
       </div>
     </footer>
 
-    <aside class="cart-panel" data-cart-panel aria-labelledby="cart-title" aria-hidden="true">
-      <div class="cart-header">
-        <h2 id="cart-title">Your download bag</h2>
-        <button class="icon-button" type="button" data-cart-close aria-label="Close cart">×</button>
-      </div>
-      <div class="cart-items" data-cart-items></div>
-      <div class="cart-empty" data-cart-empty>
-        <p>Your bag is waiting for a nature photo.</p>
-        <button class="text-link" type="button" data-cart-close>Browse the collection <span aria-hidden="true">→</span></button>
-      </div>
-      <div class="cart-summary" data-cart-summary>
-        <div><span>Subtotal</span><strong data-cart-subtotal>$0</strong></div>
-        <p>Automatic download checkout will be connected next. Your full-resolution files stay private until then.</p>
-        <button class="button button-dark button-full" type="button" data-checkout>Automatic checkout coming soon</button>
-        <p class="checkout-message" data-checkout-message role="status"></p>
-      </div>
-    </aside>
-    <div class="overlay" data-overlay></div>
-
     <dialog class="print-dialog" data-print-dialog>
       <button class="icon-button dialog-close" type="button" data-dialog-close aria-label="Close product details">×</button>
       <div class="dialog-image"><img data-dialog-image src="" alt="" /></div>
@@ -148,7 +126,8 @@
         <label class="size-label" for="print-size">Choose a size</label>
         <select id="print-size" data-dialog-size></select>
         <p class="dialog-price" data-dialog-price></p>
-        <button class="button button-dark button-full" type="button" data-dialog-add>Add to bag</button>
+        <button class="button button-dark button-full" type="button" data-dialog-add>Buy &amp; download</button>
+        <p class="dialog-message" data-dialog-message role="status"></p>
       </div>
     </dialog>
 
