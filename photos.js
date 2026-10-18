@@ -37,7 +37,7 @@ window.PHOTOS = [
     title: "Wild Meadow",
     location: "Platte River, Nebraska",
     category: "nature",
-    image: "images/your-photo-03.svg",
+    image: "images/Ducks.JPG",
     payhipUrl: "",
     alt: "Replace with a description of your photograph",
     description: "Summer grass and a quiet path at the edge of the river.",
